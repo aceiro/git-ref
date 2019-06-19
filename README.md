@@ -97,3 +97,4 @@ lg = !"git lg1"
 [alias]
 adog = log --all --decorate --oneline --graph
 ```
+[1] - https://stackoverflow.com/questions/1057564/pretty-git-branch-graphs
